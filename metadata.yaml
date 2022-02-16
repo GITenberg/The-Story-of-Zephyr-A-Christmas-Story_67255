@@ -1,11 +1,16 @@
 _repo: The-Story-of-Zephyr-A-Christmas-Story_67255
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67255-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Jeanie Oliver
     gutenberg_agent_id: '54175'
     url: http://www.gutenberg.org/2009/agents/54175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67255#The-Story-of-Zephyr-A-Christmas-Story
 gutenberg_issued: '2022-01-26'
 identifiers:
   gutenberg: '67255'
